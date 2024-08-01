@@ -1,0 +1,167 @@
+[{
+  "questionNo": "Q1.",
+  "question": "A possessive pronoun is a word that replaces a noun and shows ownership.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "questionNo": "Q2.",
+  "question": "Select the correct sentence",
+  "options": ["Email myself for further details.", "Email me for further details"],
+  "correct": 1
+},
+{
+  "questionNo": "Q3.",
+  "question": "Relative Pronouns represent a particular person or thing.",
+  "options": ["True", "False"],
+  "correct": 1
+},
+{
+  "questionNo": "Q4.",
+  "question": "Select the correct sentence",
+  "options": ["Take me to your leader", "Take me to you’re leader"],
+  "correct": 0
+},
+{
+  "questionNo": "Q5.",
+  "question": "State True or false: The demonstrative pronouns are 'this,' 'that,' 'these,' and 'those.'",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "questionNo": "Q6.",
+  "question": "Use the correct pronoun and replace the highlighted pronoun: For protection Medieval castles often had moats and tall thick walls surrounding it.",
+  "options": ["Them", "They", "Itself", "Their"],
+  "correct": 0
+},
+{
+  "questionNo": "Q7.",
+  "question": "The interrogative pronoun 'which' is used to select from a limited number of options.",
+  "options": ["True", "False"],
+  "correct": 1
+},
+{
+  "questionNo": "Q8.",
+  "question": "Use the correct pronoun and replace the highlighted pronoun: If freelance writers want to attract new clients you should advertise online and in local newspapers.",
+  "options": ["He", "They", "We", "Himself"],
+  "correct": 1
+},
+{
+  "questionNo": "Q9.",
+  "question": "Read the sentence and state the pronoun type of the highlighted word: Steve Jobs was a founder of Apple Computer, but he also bought the firm that would later become Pixar.",
+  "options": ["Reflexive", "Personal", "Relative", "Possessive"],
+  "correct": 1
+},
+{
+  "questionNo": "Q10.",
+  "question": "Jacob said his parents will be coming to town this weekend. ‘His’ in the above sentence is a:",
+  "options": ["Possessive Pronoun", "Relative Pronoun", "Demonstrative Pronoun", "Interrogative Pronoun"],
+  "correct": 0
+},
+{
+  "questionNo": "Q11.",
+  "question": "Replace the highlighted word with an appropriate pronoun: Ming bought a programme ticket for the opera without realizing that the programme was in Russian.",
+  "options": ["Itself", "It", "They", "We"],
+  "correct": 1
+},
+{
+  "questionNo": "Q12.",
+  "question": "I often sit with a Rubik's cube, Rubik cube is a 3D puzzle invented by Erno Rubik in 1974.",
+  "options": ["They", "It", "He", "That"],
+  "correct": 1
+},
+{
+  "questionNo": "Q13.",
+  "question": "Fortunately, she took the road, who led in the right direction.",
+  "options": ["Which", "We", "Everyone", "Herself"],
+  "correct": 0
+},
+{
+  "questionNo": "Q14.",
+  "question": "Choose the correct pronoun: I always check if the art across the street is better than my.",
+  "options": ["Myself", "I", "Us", "Mine"],
+  "correct": 3
+},
+{
+  "questionNo": "Q15.",
+  "question": "Choose the correct pronoun: People who have given us their complete confidence believe that they have a right to yours.",
+  "options": ["Mine", "Theirs", "Ours", "Them"],
+  "correct": 2
+},
+{
+  "questionNo": "Q16.",
+  "question": "Pilots should carefully check the entire control panel in the cockpit before it request permission for take-off.",
+  "options": ["He", "She", "They", "Themselves"],
+  "correct": 2
+},
+{
+  "questionNo": "Q17.",
+  "question": "These aeroplane's engine faltered.",
+  "options": ["Those", "This", "We", "Theirs"],
+  "correct": 1
+},
+{
+  "questionNo": "Q18.",
+  "question": "Read the sentences and fill in the blank with a suitable Pronoun: The members argued amongst ……….for an hour.",
+  "options": ["Themselves", "Them", "Their", "Us"],
+  "correct": 0
+},
+{
+  "questionNo": "Q19.",
+  "question": "………… people came to the stadium to see the match.",
+  "options": ["Several", "All", "Every", "Each"],
+  "correct": 0
+},
+{
+  "questionNo": "Q20.",
+  "question": "As a child, Philip Glass developed an interest in music by listening to records ……. father brought home from work.",
+  "options": ["Him", "He", "His", "They"],
+  "correct": 2
+},
+{
+  "questionNo": "Q21.",
+  "question": "……….. was not a good decision that you took last month.",
+  "options": ["That", "It", "These", "Those"],
+  "correct": 0
+},
+{
+  "questionNo": "Q22.",
+  "question": "Read the sentences and find the Pronouns and state their Kind - Part 4: He dedicated himself to advocating for social justice, working to make a difference in his community.",
+  "options": [
+    "He: Personal Pronoun, Himself: Reflexive Pronoun, His: Possessive Pronoun",
+    "He: Relative Pronoun; Himself: Personal Pronoun; His: possessive pronoun",
+    "He: relative pronoun; himself: Reflexive Pronoun; his: personal pronoun"
+  ],
+  "correct": 0
+},
+{
+  "questionNo": "Q23.",
+  "question": "They disciplined themselves to maintain a healthy work-life balance, prioritizing self-care alongside professional responsibilities.",
+  "options": [
+    "They: possessive pronoun; themselves: personal pronoun",
+    "They: Relative pronoun,; themselves: possessive",
+    "They: personal pronoun; themselves: reflexive"
+  ],
+  "correct": 2
+},
+{
+  "questionNo": "Q24.",
+  "question": "We completed the project ahead of the deadline.",
+  "options": [
+    "Personal pronoun",
+    "Possessive pronoun",
+    "Relative pronoun"
+  ],
+  "correct": 0
+},
+{
+  "questionNo": "Q25.",
+  "question": "You will feel better if you express yourself clearly.",
+  "options": [
+    "Yourself: personal pronoun; you possessive",
+    "Yourself: reflexive pronoun; you personal pronoun",
+    "Yourself: relative pronoun; you: personal pronoun"
+  ],
+  "correct": 1
+}
+]
